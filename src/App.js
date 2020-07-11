@@ -96,7 +96,7 @@ class App extends Component {
         const uNum = (iNum * o) / 100
 
         //for v
-        const vNum = (iNum * p) / 100
+        const vNum = (iNum * p) / 100 + 140
 
         //for w
         const wNum = qNum * 12
